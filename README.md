@@ -1,5 +1,5 @@
 
-# 👋 FIDELE BAUMA
+#  FIDELE BAUMA
 
 ### Full Stack Developer | IoT Enthusiast | Mentor
 **Transforming complex ideas into elegant web applications and intelligent connected systems.**
@@ -8,12 +8,12 @@
 
 ---
 
-## 📖 ABOUT ME
+## ABOUT ME
 Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'écosystème PHP/Laravel et l'intégration IoT. Je crois fermement que la technologie peut transformer nos villes et nos vies, c'est pourquoi je me spécialise dans les solutions de **Smart City** et la synergie Hardware/Software.
 
-- 🌍 **Localisation** : Goma, RD Congo
+-  **Localisation** : Goma, RD Congo
 - 🎓 **Mentorat** : ISIG Goma & Startups
-- 💡 **Passion** : Smart Cities & IoT
+-  **Passion** : Smart Cities & IoT
 
 ---
 
@@ -43,20 +43,10 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 
 ---
 
-## 🚀 WHAT I DO
+## WHAT I DO
 | Domaine | Focus |
 | :--- | :--- |
 | **Web Development** | Création d'applications réactives et scalables avec Laravel, Livewire et Tailwind CSS. |
 | **IoT & Électronique** | Conception de systèmes connectés (ESP32/Raspberry Pi) via MQTT, LoRa et WebSockets. |
 | **Mentorat** | Accompagnement technique des étudiants de l'ISIG Goma et des startups locales. |
-
----
--
-
-## 📬 LET'S CONNECT
-Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT ?
-- **Site Web** : [folios.life](https://folios.life)
-- **LinkedIn** : [Fidele Bauma](https://linkedin.com/in/votre-profil)
-
-> "Transformer une idée en solution, c'est bien. Le faire avec élégance et performance, c'est mieux."
->>>>>>> d3e7b40 (Initial commit: Refonte du profil avec style inspiré d'Alain Paluku)
+)
