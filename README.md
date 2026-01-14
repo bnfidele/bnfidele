@@ -21,9 +21,11 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 
 ---
 
-## TECH STACK
+##  TECH STACK
 
 ###  Web Development
+*Création d'applications web modernes, performantes et scalables avec les dernières technologies.*
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -32,6 +34,8 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 
 ###  IoT & Electronics
+*Conception de systèmes connectés intelligents pour l'automatisation et les solutions Smart City.*
+
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
@@ -39,6 +43,8 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ###  DevOps & Tools
+*Outils et services pour le déploiement, l'intégration continue et la gestion de projets.*
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -54,7 +60,7 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 
 ---
 
-## 🤝 LET'S CONNECT
+##  LET'S CONNECT
 
 Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT et Smart City ?
 
