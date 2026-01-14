@@ -54,11 +54,16 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 
 ---
 
-##  LET'S CONNECT
-Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT ?
--  **Portfolio** : [folios.life](https://folios.life)
--  **LinkedIn** : [Fidele Bauma](https://linkedin.com/in/fidele-bauma)
--  **Email** : [contact@folios.life](mailto:contact@folios.life)
+## 🤝 LET'S CONNECT
+
+Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT et Smart City ?
+
+<p align="center">
+  <a href="https://folios.life"><img src="https://img.shields.io/badge/Portfolio-folios.life-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/fidele-bauma"><img src="https://img.shields.io/badge/LinkedIn-Fidele%20Bauma-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:contact@folios.life"><img src="https://img.shields.io/badge/Email-contact%40folios.life-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/bnfidele"><img src="https://img.shields.io/badge/GitHub-bnfidele-333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 > "Transformer une idée en solution, c'est bien. Le faire avec élégance et performance, c'est mieux."
 
