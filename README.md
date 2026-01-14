@@ -56,8 +56,8 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 
 ##  GITHUB ANALYTICS
 
-![Fidele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fidelebauma&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelebauma&layout=compact&theme=radical)
+![Fidele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bnfidele&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfidele&layout=compact&theme=radical)
 
 ---
 
@@ -71,6 +71,6 @@ Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT ?
 
 ---
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=fidelebauma&label=Profile%20Views&color=0078d7&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=bnfidele&label=Profile%20Views&color=0078d7&style=flat" alt="Profile Views" />
 </p>
 )
