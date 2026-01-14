@@ -63,7 +63,6 @@ Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT ?
 > "Transformer une idée en solution, c'est bien. Le faire avec élégance et performance, c'est mieux."
 
 ---
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bnfidele&label=Profile%20Views&color=0078d7&style=flat" alt="Profile Views" />
-</p>
-)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-folios.life-9cf?style=for-the-badge&logo=globe&logoColor=white)](https://folios.life)
+
