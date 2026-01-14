@@ -17,13 +17,13 @@ Based in **Goma (DRC)**, I am a digital craftsman specializing in the **PHP/Lara
 -  **Location** : Goma, DR Congo
 -  **Mentoring** : ISIG Goma & Local Startups
 -  **Focus** : Smart City solutions, Automation, Scalable Web Apps
-- 🔭 **Current Project** : Building IoT-based monitoring systems for urban challenges
+-  **Current Project** : Building IoT-based monitoring systems for urban challenges
 
 ---
 
-## 🛠 TECH STACK
+##  TECH STACK
 
-### 🌐 Web Development
+###  Web Development
 *Building modern, performant, and scalable web applications with the latest technologies.*
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -33,7 +33,7 @@ Based in **Goma (DRC)**, I am a digital craftsman specializing in the **PHP/Lara
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=white)
 
-### 🔌 IoT & Electronics
+###  IoT & Electronics
 *Designing intelligent connected systems for automation and Smart City solutions.*
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
@@ -42,7 +42,7 @@ Based in **Goma (DRC)**, I am a digital craftsman specializing in the **PHP/Lara
 ![MQTT](https://img.shields.io/badge/MQTT-3C52F0?style=for-the-badge&logo=mqtt&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ⚙️ DevOps & Tools
+###  DevOps & Tools
 *Tools and services for deployment, continuous integration, and project management.*
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
