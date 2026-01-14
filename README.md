@@ -55,10 +55,9 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 ---
 
 ##  GITHUB ANALYTICS
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fidelebauma&show_icons=true&theme=radical&count_private=true" alt="Fidele's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidelebauma&layout=compact&theme=radical" alt="Top Langs" height="150" />
-</p>
+
+![Fidele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fidelebauma&show_icons=true&theme=radical&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fidelebauma&layout=compact&theme=radical)
 
 ---
 
