@@ -54,13 +54,6 @@ Basé à **Goma (RDC)**, je suis un artisan du numérique spécialisé dans l'é
 
 ---
 
-##  GITHUB ANALYTICS
-
-![Fidele's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bnfidele&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bnfidele&layout=compact&theme=radical)
-
----
-
 ##  LET'S CONNECT
 Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT ?
 -  **Portfolio** : [folios.life](https://folios.life)
