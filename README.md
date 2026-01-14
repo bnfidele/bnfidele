@@ -75,5 +75,7 @@ Prêt à collaborer sur un projet innovant ou simplement discuter d'IoT et Smart
 
 ---
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-folios.life-9cf?style=for-the-badge&logo=globe&logoColor=white)](https://folios.life)
+<p align="center">
+  <a href="https://folios.life"><img src="https://img.shields.io/badge/Portfolio-folios.life-9cf?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"></a>
+</p>
 
